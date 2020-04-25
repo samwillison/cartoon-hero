@@ -1,0 +1,50 @@
+header{
+text-align: center;
+text-transform: uppercase;
+font-family: "courier new";
+font-size: 50px;
+}
+
+h1{
+font-family: "courier new";
+margin: 0.05em;
+padding: 0.002em;
+}
+
+h2{
+text-align: center;
+text-transform: uppercase;
+font-family: "courier new";
+font-size: 45px;
+margin: 0.05em;
+padding: 0.002em;
+}
+
+main{
+text-align: center;
+font-size: 25px;
+font-family: "courier new";
+}
+
+ul{
+padding-left: 20em;
+text-align: left;
+}
+
+p{
+font-family: "courier new";
+padding-left: 5.5em;
+padding-right: 5.5em;
+}
+
+h3{
+font-family: arial;
+font-size: 25px;
+padding-left: 5.5em;
+padding-right: 5.5em;
+}
+
+footer{
+background-color: lightgrey;
+text-align: center;
+}
